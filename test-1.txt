@@ -4,3 +4,8 @@ final year student of christ college.
 I am a information technology student 
 now working in my first project.
 my first project is about to develop a application for student 
+
+second entry
+
+today i m attening my first project class
+the class is a intro about git hub application and it command 
